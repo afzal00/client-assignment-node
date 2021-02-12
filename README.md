@@ -14,7 +14,7 @@ start the server before running below script. Make sure tables are created in sc
 npx sequelize-cli db:seed --seed 20201129090806-userInserts
 npx sequelize-cli db:seed --seed 20201129130405-statistics
 
-user name - vkonduru90@gmail.com
+user name - shekhadaafzal@gmail.com
 password - 123456
 
 You can find the routes in request.http file.
